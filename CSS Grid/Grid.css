@@ -83,6 +83,7 @@ body {
   .three .sub-text{
       line-height: 1.2;
       font-weight: 900;
+      padding-top: 10px;
   }
   .five .sub-text{
       line-height: 1.1;
